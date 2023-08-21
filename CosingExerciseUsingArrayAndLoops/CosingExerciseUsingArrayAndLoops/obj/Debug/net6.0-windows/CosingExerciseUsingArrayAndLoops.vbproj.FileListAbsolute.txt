@@ -1,0 +1,17 @@
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\bin\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.exe
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\bin\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.deps.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\bin\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.runtimeconfig.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\bin\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\bin\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.vbproj.AssemblyReference.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.Form1.resources
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.vbproj.GenerateResource.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.AssemblyInfoInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.AssemblyInfo.vb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.vbproj.CoreCompileInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\refint\CosingExerciseUsingArrayAndLoops.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\CosingExerciseUsingArrayAndLoops.genruntimeconfig.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\CosingExerciseUsingArrayAndLoops\CosingExerciseUsingArrayAndLoops\obj\Debug\net6.0-windows\ref\CosingExerciseUsingArrayAndLoops.dll
